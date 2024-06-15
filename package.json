@@ -1,5 +1,5 @@
 {
-  "name": "react-redux-translate",
+  "name": "react-redux-translates",
   "version": "3.5.15",
   "description": "Localization library for handling translations in React",
   "main": "dist/index.js",
@@ -13,7 +13,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/erwanriou/react-redux-translate.git"
+    "url": "git+https://github.com/erwanriou/react-redux-translates.git"
   },
   "author": "Erwan Riou",
   "license": "MIT",
