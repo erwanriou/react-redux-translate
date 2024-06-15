@@ -1,6 +1,6 @@
 {
   "name": "react-redux-translates",
-  "version": "3.5.16",
+  "version": "3.5.17",
   "description": "Localization library for handling translations in React",
   "main": "dist/index.js",
   "module": "dist/index.modern.js",
