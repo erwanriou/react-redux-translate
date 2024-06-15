@@ -19,6 +19,8 @@ npm i --save-dev @redux-devtools/extension@3.2.2
 1. Create a `utils/index.js` file and add the following configurations
 
 ```js
+import { renderToStaticMarkup } from "react-dom/server"
+
 // IMPORT TRANSLATIONS JSON FILE HERE FROM WHERE THEY ARE
 import US from "@translations/us.translations.json"
 import FR from "@translations/fr.translations.json"
