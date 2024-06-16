@@ -3,7 +3,7 @@
   "version": "3.5.17",
   "description": "Localization library for handling translations in React",
   "main": "dist/index.js",
-  "module": "dist/index.modern.js",
+  "module": "dist/index.js",
   "source": "src/index.js",
   "scripts": {
     "build": "webpack",

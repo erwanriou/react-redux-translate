@@ -9,7 +9,7 @@ module.exports = {
   output: {
     path: path.resolve(__dirname, "dist"),
     filename: "index.js",
-    library: { name: "archsplace_lib_localize", type: "umd" },
+    library: { name: "react-redux-translates", type: "umd" },
     globalObject: "this"
   },
   plugins: [new CleanWebpackPlugin()],
